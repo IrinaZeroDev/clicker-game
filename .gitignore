@@ -1,0 +1,7 @@
+.venv/
+extracted/
+__pycache__/
+*.pyc
+*.zip
+instance/
+*.db
